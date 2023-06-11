@@ -1,0 +1,15 @@
+artifact_uri: file:///home/adyanshk/Personal/SERC/mlruns/0/937b0dff3bcf4882b5bd90da9c099a6d/artifacts
+end_time: 1684176892594
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 937b0dff3bcf4882b5bd90da9c099a6d
+run_name: honorable-bass-354
+run_uuid: 937b0dff3bcf4882b5bd90da9c099a6d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1684176890815
+status: 3
+tags: []
+user_id: adyanshk

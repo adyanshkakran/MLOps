@@ -1,0 +1,15 @@
+artifact_uri: file:///home/adyanshk/Personal/SERC/mlruns/0/887a1f02ba2c425da6dfe42b1be730fb/artifacts
+end_time: 1684176796409
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 887a1f02ba2c425da6dfe42b1be730fb
+run_name: serious-fowl-632
+run_uuid: 887a1f02ba2c425da6dfe42b1be730fb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1684176794618
+status: 3
+tags: []
+user_id: adyanshk
